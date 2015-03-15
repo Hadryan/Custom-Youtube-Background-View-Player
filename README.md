@@ -1,2 +1,2 @@
 # Custom-Youtube-Background-View-Player
-allows web-content to sit on top of a youtube background video/playlist 
+Built this with the YouTube Player Javascript API...Wanted to put stuff like lyrics, track info, & other content over a semi-opaque surface on top of background music-visuals of some kind to create an interactive player. Spent some time adding nice transitions (synchronous fade-out of the youtube and video audio for example) and controls to go forward and backward to navigate a youtube playlist.
